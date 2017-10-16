@@ -13,7 +13,7 @@ def get_answer():
             return answer
         
         except ValueError:
-            print "Enter a value between 1 to 5"      
+            print "Please only enter values between 1-5"      
             
 def main():
     print("Hello, answer 5 to 1 according to your satisfaction")    
