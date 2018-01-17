@@ -1,4 +1,5 @@
-Customer satisfaction survey exercise. First Python program./
+Customer satisfaction survey exercise. First Python program./ 
+This simple program deals with writing and reading files, arrays and the display of data/
 The program reads questions from a txt file/
 The questions show to the customer one by one with different satisfation levels/
 The survey results are stored in a txt file./
